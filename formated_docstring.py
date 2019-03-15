@@ -1,4 +1,4 @@
-""" Formating doctstrings
+""" Decorator for Formating doctstrings.
 """
 
 
